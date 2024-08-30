@@ -17,4 +17,4 @@ def get_validate(referer):
         if(len(validate)>10):
             return validate
 
-print(get_validate(""))
+print(get_validate("须要学习代码联系（付费）：https://t.me/constantsas"))
